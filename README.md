@@ -2,6 +2,12 @@
 
 A WhatsApp-based AI service that enables users to virtually try on clothes by sending their photos and garment images. The service utilizes AI to create realistic visualizations of how clothes would look on the user.
 
+![image](https://github.com/user-attachments/assets/3e2bf070-90c6-4276-841c-624b7b6e20b7)
+
+![image](https://github.com/user-attachments/assets/5c353027-8736-43ac-974b-8b78d4d7eade)
+
+
+
 ## Quick Start
 
 ```bash
