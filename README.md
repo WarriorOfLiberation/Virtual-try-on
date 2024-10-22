@@ -6,10 +6,10 @@ A WhatsApp-based AI service that enables users to virtually try on clothes by se
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/virtual-tryon-bot.git
+git clone https://github.com/WarriorOfLiberation/Virtual-try-on.git
 
 # Navigate to project directory
-cd virtual-tryon-bot
+cd Virtual-try-on
 
 # Create and activate virtual environment
 python -m venv venv
